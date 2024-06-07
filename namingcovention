@@ -1,0 +1,15 @@
+// camel casing
+// class,constructor and interface ---------> Human,Calc(),Runnable
+// variable and method ---------> age,marks,show()
+// constants ---------> PIE , BRAND 
+
+// showMyMarks() ----------> camel casing
+// show_my_marks() -----------> snake casing
+ 
+
+// examples
+
+// MyData -----> Class
+// Human()-----> constructor
+// age -----> variable
+// DATA ----> constants
